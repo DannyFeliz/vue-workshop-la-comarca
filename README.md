@@ -1,5 +1,8 @@
 # my-awesome-app
 
+## Slides
+[vuejs-the-progressive-framework](https://slides.com/dannyfeliz/vuejs-the-progressive-framework)
+
 ## Project setup
 ```
 npm install
